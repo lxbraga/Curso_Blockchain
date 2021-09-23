@@ -24,7 +24,7 @@ Embora o valor do lúmen do Stellar tenha caído em mais de dois terços em maio
 
 [White Paper da Stellar](https://www.stellar.org/papers/stellar-consensus-protocol)
 
-[Web site do Ethereum](stellar.org)
+[Web site do Stellar](stellar.org)
 
 
 <a id="orgb51ea99"></a>
